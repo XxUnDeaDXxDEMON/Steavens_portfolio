@@ -227,7 +227,7 @@ header nav ul li a{
   .work-item-project.project01-group07 {
     grid-column: 4 /span 1;
     grid-row: 7 / span 3;
-    background-image: url("..\images\Bookscouts.png");
+    background-image: url("../images/Bookscouts.png");
     background-size: cover;
     display: flex; 
     align-items: flex-end; 
